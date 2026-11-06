@@ -1,7 +1,7 @@
 # STEA — Application de bureau Windows
 
 **STEA** est une application de gestion logistique et de suivi des stocks développée pour
-**STEA Trans Euro Afrika SARL** (Lomé, Togo), en production depuis août 2026.
+une entreprise de Lomé (Togo), en production depuis août 2026.
 
 Ce dépôt est le **canal de distribution de l'application de bureau** : il héberge les
 installeurs Windows dans les [Releases](https://github.com/Ezoolim-Ela/stea-desktop/releases)
@@ -11,26 +11,6 @@ Le code source du back-end et de l'interface se trouve dans
 
 [![Dernière version](https://img.shields.io/github/v/release/Ezoolim-Ela/stea-desktop?label=derni%C3%A8re%20version&color=6D28D9)](https://github.com/Ezoolim-Ela/stea-desktop/releases/latest)
 [![Téléchargements](https://img.shields.io/github/downloads/Ezoolim-Ela/stea-desktop/total?label=t%C3%A9l%C3%A9chargements&color=5B21B6)](https://github.com/Ezoolim-Ela/stea-desktop/releases)
-
----
-
-## Aperçu
-
-| Tableau de bord | Articles |
-| :---: | :---: |
-| ![Tableau de bord : indicateurs de stock, encaissements et tâches à traiter](docs/captures/tableau-de-bord-vue-desktop.webp) | ![Liste des articles avec filtres par service et par entrepôt](docs/captures/articles-liste-desktop.webp) |
-
-| Mouvements de stock | Statistiques |
-| :---: | :---: |
-| ![Historique des entrées et sorties de stock](docs/captures/mouvements-liste-desktop.webp) | ![Tableau de bord statistique configurable par widgets](docs/captures/statistiques-widgets-desktop.webp) |
-
-| Bons de commande | Livraisons | Réapprovisionnement | Notifications |
-| :---: | :---: | :---: | :---: |
-| ![Bons de commande fournisseurs](docs/captures/bons-de-commande-liste-desktop.webp) | ![Suivi des livraisons](docs/captures/livraisons-liste-desktop.webp) | ![Alertes de réapprovisionnement](docs/captures/reapprovisionnement-liste-desktop.webp) | ![Centre de notifications](docs/captures/notifications-vue-desktop.webp) |
-
-L'interface s'adapte aussi aux petits écrans (version web embarquée dans le serveur) :
-
-<img src="docs/captures/tableau-de-bord-vue-mobile.webp" alt="Tableau de bord sur mobile" width="220">
 
 ---
 
@@ -103,4 +83,4 @@ Conception et développement de l'ensemble : back-end, interface, application de
 
 ## Licence
 
-Logiciel propriétaire développé pour STEA Trans Euro Afrika SARL. Tous droits réservés.
+Logiciel propriétaire. Tous droits réservés.
